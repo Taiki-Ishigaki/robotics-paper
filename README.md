@@ -5,7 +5,8 @@
 
 # Contents
 - [Thesis Summary](https://github.com/Taiki-Ishigaki/robotics-paper/issues)   
-論文の概要とまとめをissueで管理
+論文の概要とまとめをissueで管理  
+進捗は[こちら](https://github.com/Taiki-Ishigaki/robotics-paper/projects/1)
 
 - [Materials](https://github.com/Taiki-Ishigaki/robotics-paper/tree/master/materials)  
 ロボティクスに関する勉強のための教材まとめ
