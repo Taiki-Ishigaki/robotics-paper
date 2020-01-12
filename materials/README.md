@@ -17,7 +17,6 @@
 
 ## Thesis
 
-###　解説論文
 - [ヒューマノイド夏の学校2016](https://www.jstage.jst.go.jp/browse/jrsj/36/2/_contents/-char/ja)
     - [人型ロボットの力学：杉原知道](https://www.jstage.jst.go.jp/article/jrsj/36/2/36_36_95/_article/-char/ja)
     - [人型ロボットの歩行制御：山本江](https://www.jstage.jst.go.jp/article/jrsj/36/2/36_36_103/_article/-char/ja)
@@ -30,7 +29,7 @@
 
 - [2足歩行ロボットの技術の現在：高西淳夫、他(2012)](https://www.jstage.jst.go.jp/article/jrsj/30/4/30_30_336/_article/-char/ja/)
 
-- [2足歩行ロボットの技術の現在：完結編：高西淳夫、他(2012)]https://www.rsj.or.jp/content/files/pub/jrsj/30_4_zadankai_complete_final.pdf)
+- [2足歩行ロボットの技術の現在：完結編：高西淳夫、他(2012)](https://www.rsj.or.jp/content/files/pub/jrsj/30_4_zadankai_complete_final.pdf)  
 PDFなので注意
 
 - [位置制御の基づく2足歩行技術：藤本康孝, 梶田秀司(2012)](https://www.jstage.jst.go.jp/article/jrsj/30/4/30_30_344/_article/-char/ja/)
