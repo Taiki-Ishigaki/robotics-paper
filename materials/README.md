@@ -17,6 +17,8 @@
 
 ## Thesis
 
+### 解説論文
+
 - [ヒューマノイド夏の学校2016](https://www.jstage.jst.go.jp/browse/jrsj/36/2/_contents/-char/ja)
     - [人型ロボットの力学：杉原知道](https://www.jstage.jst.go.jp/article/jrsj/36/2/36_36_95/_article/-char/ja)
     - [人型ロボットの歩行制御：山本江](https://www.jstage.jst.go.jp/article/jrsj/36/2/36_36_103/_article/-char/ja)
