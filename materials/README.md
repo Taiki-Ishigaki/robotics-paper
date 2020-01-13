@@ -38,11 +38,31 @@ PDFなので注意
 
 - [二足歩行ロボットの研究開発の現状-自律歩行動作を中心とした研究動向について-：柴田昌明(2011)](https://www.jstage.jst.go.jp/article/jjspe/77/5/77_5_453/_article/-char/ja)
 
+- [ゼロモーメントポイント(ZMP)と歩行制御:梶田秀司(2002)](https://www.jstage.jst.go.jp/article/jrsj1983/20/3/20_3_229/_article/-char/ja/)
+
 <!--
 - [総論　ヒューマノイドロボット研究の意義とその動向：谷江和雄(2000)](https://www.jstage.jst.go.jp/article/sobim/24/4/24_KJ00000972678/_article/-char/ja)
 
 - [2足歩行ロボットの現状と事例紹介：藤本康孝(1999)](https://www.jstage.jst.go.jp/article/ieejias1987/119/6/119_6_763/_pdf)
 -->
+
+### ヒューマノイドロボット開発
+
+- [ヒューマノイドHRP-2の開発:五十棲 隆勝、他(2004)](https://www.jstage.jst.go.jp/article/jrsj1983/22/8/22_8_1004/_article/-char/ja/)
+
+- [遠隔操作による災害対応ヒューマノイドロボットHRP-2改：森澤光晴(2016)](https://www.jstage.jst.go.jp/article/bplus/10/3/10_173/_article/-char/ja/)
+
+### シミュレータ開発
+
+#### choreonoid
+
+-[拡張可能なロボット用統合GUI環境 choreonoid:中岡慎一郎(2013)](https://www.jstage.jst.go.jp/article/jrsj/31/3/31_31_226/_article/-char/ja/)
+
+- [統合ロボットシミュレータChoreonoidの最新機能:中岡慎一郎(2018)](https://www.jstage.jst.go.jp/article/sicejl/57/10/57_700/_article/-char/ja/)
+
+### その他
+
+- [DARPAロボティクスチャレンジ決勝戦でのロボットシステム開発と教訓：梶田秀司、他(2016)](https://www.jstage.jst.go.jp/article/jrsj/34/6/34_34_360/_article/-char/ja/)
 
 ## web page
 - [ロボット屋」の矜持【前編】ヒューマノイドの研究から得られるものは何か？：高西淳夫(FUTURUS記事：2016)](https://nge.jp/2016/11/21/post-136185)
