@@ -50,13 +50,13 @@ PDFなので注意
 
 - [ヒューマノイドHRP-2の開発:五十棲 隆勝、他(2004)](https://www.jstage.jst.go.jp/article/jrsj1983/22/8/22_8_1004/_article/-char/ja/)
 
-- [遠隔操作による災害対応ヒューマノイドロボットHRP-2改：森澤光晴(2016)](https://www.jstage.jst.go.jp/article/bplus/10/3/10_173/_article/-char/ja/)
+- [遠隔操作による災害対応ヒューマノイドロボットHRP-2改：森澤光晴、他(2016)](https://www.jstage.jst.go.jp/article/bplus/10/3/10_173/_article/-char/ja/)
 
 ### シミュレータ開発
 
 #### choreonoid
 
--[拡張可能なロボット用統合GUI環境 choreonoid:中岡慎一郎(2013)](https://www.jstage.jst.go.jp/article/jrsj/31/3/31_31_226/_article/-char/ja/)
+- [拡張可能なロボット用統合GUI環境 choreonoid:中岡慎一郎(2013)](https://www.jstage.jst.go.jp/article/jrsj/31/3/31_31_226/_article/-char/ja/)
 
 - [統合ロボットシミュレータChoreonoidの最新機能:中岡慎一郎(2018)](https://www.jstage.jst.go.jp/article/sicejl/57/10/57_700/_article/-char/ja/)
 
